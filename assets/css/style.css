@@ -11094,6 +11094,7 @@ pre {
 
 .navbar .nav-link {
   font-weight: 700;
+  font-size: 1.2rem;
 }
 
 .navbar .nav-link.active {
@@ -11217,10 +11218,10 @@ pre {
 }
 
 .header-title {
-  font-size: 2.4rem;
+  font-size: 3rem;
   font-weight: bold;
-  opacity: .8;
-  color: #343a40;
+  text-transform: uppercase;
+  color: #fff;
 }
 
 .header-mini {
