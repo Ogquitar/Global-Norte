@@ -11383,6 +11383,9 @@ pre {
   font-weight: bold;
   color: #fff;
 }
+.gallary-text{
+  color: #fff;
+}
 
 .gallary .gallary-item:hover .gallary-overlay {
   visibility: visible;
