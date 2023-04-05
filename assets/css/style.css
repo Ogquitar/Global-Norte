@@ -11434,3 +11434,19 @@ a {
 a:hover {
   text-decoration: underline;
 }
+.btn-wtssp{
+  position: fixed;
+  width: 80px;
+  height: 80px;
+  line-height: 55px;
+  bottom: 18px;
+  right: 30px;
+  }
+  .btn-wtssp:hover{
+    text-decoration:underline;
+    transform: scale(1.1);
+  }
+  #tooltip{
+    background-color: #1c9d22;
+    padding: 100px;
+  }
