@@ -11345,6 +11345,13 @@ pre {
 .section-title {
   font-size: 4rem;
 }
+@media(max-width: 400px){
+  .section-title {
+    font-size: 2rem;
+    font-weight: 700;
+  }
+
+}
 
 .has-height-xs {
   min-height: 75px;
