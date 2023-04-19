@@ -11345,7 +11345,7 @@ pre {
 .section-title {
   font-size: 4rem;
 }
-@media(max-width: 400px){
+@media(max-width: 450px){
   .section-title {
     font-size: 2rem;
     font-weight: 500;
@@ -11431,7 +11431,7 @@ footer {
   padding: 20px;
 }
 
-@media (max-width: 400px){
+@media (max-width: 450px){
   footer {
     flex-direction: column;
     justify-content: center;
