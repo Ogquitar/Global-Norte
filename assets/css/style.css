@@ -11415,6 +11415,9 @@ pre {
 }
 .gallary-text{
   color: #fff;
+  font-weight: bold;
+  font-size: 2rem;
+  text-transform: uppercase;
 }
 
 .gallary .gallary-item:hover .gallary-overlay {
