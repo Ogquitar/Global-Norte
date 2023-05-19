@@ -11345,7 +11345,7 @@ pre {
 .section-title {
   font-size: 4rem;
 }
-@media(max-width: 500px){
+@media(max-width: 600px){
   .section-title {
     font-size: 2rem;
     font-weight: 500;
@@ -11415,6 +11415,9 @@ pre {
 }
 .gallary-text{
   color: #fff;
+  font-weight: bold;
+  font-size: 2rem;
+  text-transform: uppercase;
 }
 
 .gallary .gallary-item:hover .gallary-overlay {
@@ -11431,7 +11434,7 @@ footer {
   padding: 20px;
 }
 
-@media (max-width: 600px){
+@media (max-width: 601px){
   footer {
     flex-direction: column;
     justify-content: center;
